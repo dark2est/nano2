@@ -1,0 +1,40 @@
+2021-Mar-17 00:44:20:                                    _                 
+2021-Mar-17 00:44:20:  _ __   __ _ _ __   ___  _ __ ___ (_)_ __   ___ _ __ 
+2021-Mar-17 00:44:20: | '_ \ / _` | '_ \ / _ \| '_ ` _ \| | '_ \ / _ \ '__|
+2021-Mar-17 00:44:20: | | | | (_| | | | | (_) | | | | | | | | | |  __/ |   
+2021-Mar-17 00:44:20: |_| |_|\__,_|_| |_|\___/|_| |_| |_|_|_| |_|\___|_|   
+2021-Mar-17 00:44:20: 
+2021-Mar-17 00:44:20: Version 3.3.1
+2021-Mar-17 00:44:20: Started EthMan server on port 3333 without a password (read-only mode).
+2021-Mar-17 00:44:20: Started web interface on port 9090 without a password.
+2021-Mar-17 00:44:20: ------------------RandomX:------------------
+2021-Mar-17 00:44:20: Currency: Monero
+2021-Mar-17 00:44:20: Wallet: 4AaZTSEBreRXyDpq68toxe7puZbomzpty7zCEnmcqsBVbTHCiA7uiLqL1ywRa1gV77PF9tF88wJdo44eiFXTWmnzJ4JZJvu
+2021-Mar-17 00:44:20: Rig name: MAYOM
+2021-Mar-17 00:44:20: Email: bekkali.anass98@gmail.com
+2021-Mar-17 00:44:20: Hashrate threshold to restart miner is not set
+2021-Mar-17 00:44:20: Using CPU threads: 8
+2021-Mar-17 00:44:20: Added pool: xmr-eu2.nanopool.org:14433
+2021-Mar-17 00:44:20: Added pool: xmr-eu1.nanopool.org:14433
+2021-Mar-17 00:44:20: Added pool: xmr-us-east1.nanopool.org:14433
+2021-Mar-17 00:44:20: Added pool: xmr-us-west1.nanopool.org:14433
+2021-Mar-17 00:44:20: Added pool: xmr-jp1.nanopool.org:14433
+2021-Mar-17 00:44:20: Added pool: xmr-asia1.nanopool.org:14433
+2021-Mar-17 00:44:20: Added pool: xmr-au1.nanopool.org:14433
+2021-Mar-17 00:44:20: Auto pool sorting is enabled
+2021-Mar-17 00:44:20: -------------Common parameters:-------------
+2021-Mar-17 00:44:20: Log path: ./logs/
+2021-Mar-17 00:44:20: Log is written to file
+2021-Mar-17 00:44:20: GPU watchdog is enabled
+2021-Mar-17 00:44:20: Never calling reboot.bat (always restarting the miner in case of errors). 
+2021-Mar-17 00:44:20: Setting up algorithm: RandomX
+2021-Mar-17 00:44:20: Connecting to pools...
+2021-Mar-17 00:44:21: Connected to pool: xmr-eu2.nanopool.org:14433 | IP: 51.15.55.162 | ping: 224 ms.
+2021-Mar-17 00:44:21: CPU: Intel(R) Core(TM) i7-6700HQ CPU @ 2.60GHz | AVX2: yes | SSSE3: yes | AES: yes
+2021-Mar-17 00:44:21: New job from xmr-eu2.nanopool.org:14433 | share difficulty = 480 kH
+2021-Mar-17 00:44:21: Monero - Total speed: 0.000 H/s, Total shares: 0 Rejected: 0, Time: 00:00
+2021-Mar-17 00:44:21: Version 3.3.2 of the miner is available. Changelog:
+2021-Mar-17 00:44:21: Autolykos performance improvements about 40% for AMD Vega family (RX Vega 56, RX Vega 64, Radeon VII).
+2021-Mar-17 00:44:21: In order to process the update, specify  autoUpdate=true  in config and restart the miner.
+2021-Mar-17 00:44:22: Updating dataset...
+2021-Mar-17 00:44:24: Terminating, please wait ...

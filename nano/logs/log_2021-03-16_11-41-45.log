@@ -1,0 +1,45 @@
+2021-Mar-16 11:41:45:                                    _                 
+2021-Mar-16 11:41:45:  _ __   __ _ _ __   ___  _ __ ___ (_)_ __   ___ _ __ 
+2021-Mar-16 11:41:45: | '_ \ / _` | '_ \ / _ \| '_ ` _ \| | '_ \ / _ \ '__|
+2021-Mar-16 11:41:45: | | | | (_| | | | | (_) | | | | | | | | | |  __/ |   
+2021-Mar-16 11:41:45: |_| |_|\__,_|_| |_|\___/|_| |_| |_|_|_| |_|\___|_|   
+2021-Mar-16 11:41:45: 
+2021-Mar-16 11:41:45: Version 3.3.1
+2021-Mar-16 11:41:45: Started EthMan server on port 3333 without a password (read-only mode).
+2021-Mar-16 11:41:45: Started web interface on port 9090 without a password.
+2021-Mar-16 11:41:45: ------------------RandomX:------------------
+2021-Mar-16 11:41:45: Currency: Monero
+2021-Mar-16 11:41:45: Wallet: 4AaZTSEBreRXyDpq68toxe7puZbomzpty7zCEnmcqsBVbTHCiA7uiLqL1ywRa1gV77PF9tF88wJdo44eiFXTWmnzJ4JZJvu
+2021-Mar-16 11:41:45: Rig name: MAYOM
+2021-Mar-16 11:41:45: Email: bekkali.anass98@gmail.com
+2021-Mar-16 11:41:45: Hashrate threshold to restart miner is not set
+2021-Mar-16 11:41:45: Using CPU threads: 8
+2021-Mar-16 11:41:45: Added pool: xmr-eu2.nanopool.org:14433
+2021-Mar-16 11:41:45: Added pool: xmr-eu1.nanopool.org:14433
+2021-Mar-16 11:41:45: Added pool: xmr-us-east1.nanopool.org:14433
+2021-Mar-16 11:41:45: Added pool: xmr-us-west1.nanopool.org:14433
+2021-Mar-16 11:41:45: Added pool: xmr-asia1.nanopool.org:14433
+2021-Mar-16 11:41:45: Added pool: xmr-jp1.nanopool.org:14433
+2021-Mar-16 11:41:45: Added pool: xmr-au1.nanopool.org:14433
+2021-Mar-16 11:41:45: Auto pool sorting is enabled
+2021-Mar-16 11:41:45: -------------Common parameters:-------------
+2021-Mar-16 11:41:45: Log path: ./logs/
+2021-Mar-16 11:41:45: Log is written to file
+2021-Mar-16 11:41:45: GPU watchdog is enabled
+2021-Mar-16 11:41:45: Never calling reboot.bat (always restarting the miner in case of errors). 
+2021-Mar-16 11:41:45: Setting up algorithm: RandomX
+2021-Mar-16 11:41:45: Connecting to pools...
+2021-Mar-16 11:41:45: Connected to pool: xmr-eu2.nanopool.org:14433 | IP: 213.32.74.157 | ping: 261 ms.
+2021-Mar-16 11:41:45: CPU: Intel(R) Core(TM) i7-6700HQ CPU @ 2.60GHz | AVX2: yes | SSSE3: yes | AES: yes
+2021-Mar-16 11:41:45: New job from xmr-eu2.nanopool.org:14433 | share difficulty = 480 kH
+2021-Mar-16 11:41:45: Monero - Total speed: 0.000 H/s, Total shares: 0 Rejected: 0, Time: 00:00
+2021-Mar-16 11:41:45: Updating dataset...
+2021-Mar-16 11:41:51: Updating dataset finished.
+2021-Mar-16 11:42:07: New job from xmr-eu2.nanopool.org:14433
+2021-Mar-16 11:42:07: Monero - Total speed: 576.358 H/s, Total shares: 0 Rejected: 0, Time: 00:22
+2021-Mar-16 11:42:07: Monero: CPU: 576.358 H/s
+2021-Mar-16 11:42:07: Monero last 10 min - Total: 576.358 H/s.
+2021-Mar-16 11:42:08: New job from xmr-eu2.nanopool.org:14433
+2021-Mar-16 11:42:08: Monero - Total speed: 625.568 H/s, Total shares: 0 Rejected: 0, Time: 00:23
+2021-Mar-16 11:42:08: Monero: CPU: 625.568 H/s
+2021-Mar-16 11:42:17: Terminating, please wait ...
